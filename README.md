@@ -3,8 +3,8 @@
 ## To-do
 
 -   [x] Operation Domain, VO, Aggregates
--   [x] LocalStack Build in Docker Compose
--   [] RDS Connection
+-   [] LocalStack Build in Docker Compose
+-   [] PostgreSQL Connection
 -   [] Operation Repository
 -   [] Dockerfile for Go build/run
 -   [] Dynamo Connection
